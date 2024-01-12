@@ -1,1 +1,1 @@
-# analyzing-amazon-sales-data
+# Analyzing Amazon Sales Data
